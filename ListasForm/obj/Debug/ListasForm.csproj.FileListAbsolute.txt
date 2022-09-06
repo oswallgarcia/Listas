@@ -1,0 +1,29 @@
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\bin\Debug\ListasForm.exe.config
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\bin\Debug\ListasForm.exe
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\bin\Debug\ListasForm.pdb
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csprojResolveAssemblyReference.cache
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\obj\Debug\ListasForm.Form1.resources
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\obj\Debug\ListasForm.Properties.Resources.resources
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csproj.GenerateResource.Cache
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\obj\Debug\ListasForm.exe
+c:\users\angelo\documents\visual studio 2015\Projects\Listas_IS142M\ListasForm\obj\Debug\ListasForm.pdb
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\bin\Debug\ListasForm.exe.config
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\bin\Debug\ListasForm.exe
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\bin\Debug\ListasForm.pdb
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csprojAssemblyReference.cache
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.Form1.resources
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.Properties.Resources.resources
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.exe
+C:\Users\Angelo\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.pdb
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\bin\Debug\ListasForm.exe.config
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\bin\Debug\ListasForm.exe
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\bin\Debug\ListasForm.pdb
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csprojAssemblyReference.cache
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.Form1.resources
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.Properties.Resources.resources
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csproj.GenerateResource.cache
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.csproj.CoreCompileInputs.cache
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.exe
+C:\Users\OSWALL\source\repos\Listas_IS142M\ListasForm\obj\Debug\ListasForm.pdb
